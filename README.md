@@ -1,2 +1,3 @@
-# Exercícios
- Exercícios de Programação nas linguagens que estudo.
+# Introdução
+ 
+ Repositório teste criado durante a video aula.
