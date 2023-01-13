@@ -1,2 +1,2 @@
-# Exercicios
- Exercícios de Programação nas linguagens que estudo
+# Exercícios
+ Exercícios de Programação nas linguagens que estudo.
